@@ -9,6 +9,6 @@
 + [**思否**](https://segmentfault.com/)-为开发者提供问答、学习与交流编程知识的平台,创造属于开发者的时代!
 ## 技术
 + [**OSCHINA**](https://www.oschina.net/)
-+ [**极客帮**](https://www.geekbang.org/)--让创新科技推动技术进步
-+ [**掘金**](https://juejin.im/)--一个帮助开发者成长的社区
-+ [**简书**](https://www.jianshu.com/)--创作你的创作
++ [**极客帮**](https://www.geekbang.org/)-让创新科技推动技术进步
++ [**掘金**](https://juejin.im/)-一个帮助开发者成长的社区
++ [**简书**](https://www.jianshu.com/)-创作你的创作
