@@ -10,6 +10,8 @@
 + [**心声社区**](http://xinsheng.huawei.com/cn/index/guest.html)-华为心声社区是华为内部员工社区平时代!
 + [**36kr**](https://36kr.com/)-让一部分人先看到未来
 + [**钛媒体**](https://www.tmtpost.com/)-引领未来商业与生活新知
++ [**亿欧**](https://www.iyiou.com/)-科技与产业创新服务平台
+
 
 ## 技术
 + [**OSCHINA**](https://www.oschina.net/)-目前领先的中文开源技术社区。我们传播开源的理念,推广开源项目,为 IT 开发者提供了一个发现、使用、并交流开源技术的平台
